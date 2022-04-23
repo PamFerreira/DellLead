@@ -1,4 +1,4 @@
-#Teste para ver se número é primo.
+#Teste para ver se número é primo com entrada de dados.
 numero = int(input("Digite um numero: "))
 divisores = 0
 for divisor in range(1, numero):
